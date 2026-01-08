@@ -1,0 +1,17 @@
+---
+title: "ASSIGNMENT1"
+author: "ANDRES AND NIKI"
+date: 2026-01-07
+format: gfm
+editor: visual
+---
+
+# ASSIGNMENT 1 GITHUB
+
+## BY NIKI & ANDRES
+
+Hello, this is *Andres* getting help from **Niki** to understand Github :)
+
+```{r}
+10+20
+```
